@@ -1,5 +1,4 @@
 cirplacements/*.pyc
-static/
 ./db.sqlite3
 ./.idea/
 .idea/*
