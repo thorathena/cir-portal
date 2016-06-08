@@ -1,0 +1,11 @@
+cirplacements/*.pyc
+static/
+./db.sqlite3
+./.idea/
+.idea/*
+*.sqlite3
+db.sqlite3
+local_settings.py
+*.pyc
+.idea/
+registration/*.pyc

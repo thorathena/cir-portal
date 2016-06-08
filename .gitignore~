@@ -1,0 +1,11 @@
+./static/
+./db.sqlite3
+./.idea/
+*.sqlite3
+db.sqlite3
+
+local_settings.py
+static/
+*.pyc
+.idea/
+
