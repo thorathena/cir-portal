@@ -98,6 +98,15 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
               <li><a href="{% url 'list' %}">List Students</a></li>
 
             </ul>
+              <a href="javascript:;">
+              <i class="fa fa-database"></i> Filter <div class="pull-right"><span class="caret"></span></div>
+            </a>
+            <ul class="templatemo-submenu">
+              <li><a href="{% url 'register_student' %}">Internal Filters</a></li>
+              <li><a href="{% url 'filter_external' %}">External filters</a></li>
+
+
+            </ul>
           </li>
 
           <li><a href="{% url 'preferences' %}"><i class="fa fa-cog"></i>Preferences</a></li>
